@@ -1,0 +1,19 @@
+# Shared by both notebooks
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+jupyterlab
+ipykernel
+ipywidgets
+
+torch>=2.3
+torchvision>=0.18
+tqdm
+onnx
+onnxruntime
+
+tensorflow>=2.16
+tensorflow-datasets
+tensorflow-hub
